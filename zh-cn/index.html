@@ -16,7 +16,8 @@
         loadSidebar: true,
         subMaxLevel: 2,
         auto2top: true,
-        relativePath: true,
+        // Keep sidebar chapter links relative to the Docsify base path, not the current chapter.
+        relativePath: false,
         search: {
           paths: 'auto',
           placeholder: '搜索章节内容',
