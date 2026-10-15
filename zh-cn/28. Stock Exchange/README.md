@@ -6,7 +6,7 @@
 
 它的基本功能是高效撮合买家和卖家。
 
-主要证券交易所包括 **NYSE（纽约证券交易所）**、**NASDAQ（纳斯达克）**等。
+主要证券交易所包括 **NYSE（纽约证券交易所）**、<strong>NASDAQ（纳斯达克）</strong>等。
 
 <div style="margin-left:3rem">
     <img src="../../28.%20Stock%20Exchange/images/world-stock-exchanges.png" alt="世界各地的证券交易所" width="500" />
